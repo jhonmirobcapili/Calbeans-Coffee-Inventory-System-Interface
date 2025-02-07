@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<HBox xmlns:fx="http://javafx.com/fxml/1" alignment="CENTER" maxHeight="-Infinity"
+      maxWidth="-Infinity"
+      minHeight="-Infinity" minWidth="-Infinity" prefHeight="585.0" prefWidth="1008.0"
+      style="-fx-background-color: #F2E6D4;"
+      xmlns="http://javafx.com/javafx/21" fx:controller="org.example.calbeans_coffee.LoadingController">
+    <ImageView fitHeight="304.0" fitWidth="745.0" pickOnBounds="true" preserveRatio="true">
+        <Image url="@images/colored_logo.png"/>
+    </ImageView>
+</HBox>
